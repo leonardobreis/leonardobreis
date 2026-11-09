@@ -1,1 +1,2 @@
-![Snake animation](https://raw.githubusercontent.com/leonardobreis/leonardobreis/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/leonardobreis/leonardobreis/output/github-contribution-grid-snake.svg?v=5118)
